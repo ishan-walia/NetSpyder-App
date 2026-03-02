@@ -50,3 +50,19 @@ This app is built strictly for **educational and diagnostic purposes only**.
 - Test device connectivity
 
 ---
+## 🎯 Purpose of NetSpyder
+
+NetSpyder is designed to:
+
+- Help students learn networking fundamentals
+- Provide practical understanding of IP addressing and DNS
+- Demonstrate latency testing concepts
+- Teach basic port scanning logic
+- Offer safe and responsible diagnostic tools
+
+This app does NOT provide:
+- Hacking tools
+- Password cracking
+- Unauthorized access features
+
+---
