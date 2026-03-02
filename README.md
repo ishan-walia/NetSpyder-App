@@ -21,3 +21,4 @@ NetSpyder allows users to:
 This app is built strictly for **educational and diagnostic purposes only**.
 
 ---
+## 🔎 Key Features
