@@ -22,3 +22,8 @@ This app is built strictly for **educational and diagnostic purposes only**.
 
 ---
 ## 🔎 Key Features
+
+### 📶 WiFi Scanner
+- View nearby WiFi networks
+- Check signal strength (dBm)
+- Identify security type
