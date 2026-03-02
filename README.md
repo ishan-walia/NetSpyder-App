@@ -74,3 +74,30 @@ This app does NOT provide:
 - No sensitive data is stored
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🕵️ NetSpyder Shayari
+
+Network ki duniya me jo raaz chupaye baithe ho,
+Signal ke piche jo sach chhupaye baithe ho,
+Ping ki ek awaaz se sab saamne aa jayega,
+NetSpyder hai naam mera… har connection bata jayega. ⚡📡
+
+---
