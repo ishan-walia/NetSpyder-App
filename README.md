@@ -32,3 +32,6 @@ This app is built strictly for **educational and diagnostic purposes only**.
 - Discover devices connected to your local network
 - View IP and device information
 
+### 🔐 Port Scanner
+- Scan commonly used ports
+- Identify open services
