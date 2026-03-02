@@ -66,3 +66,11 @@ This app does NOT provide:
 - Unauthorized access features
 
 ---
+## 🔐 Privacy & Security
+
+- No login required
+- No tracking or data collection
+- All tools are designed for safe educational usage
+- No sensitive data is stored
+
+---
