@@ -39,3 +39,8 @@ This app is built strictly for **educational and diagnostic purposes only**.
 ### 🌍 Public IP Information
 - Display public IP address
 - Show ISP, region, and country
+
+### 🔄 IP & DNS Tools
+- IP Lookup
+- Domain to IP conversion
+- Reverse DNS resolution
