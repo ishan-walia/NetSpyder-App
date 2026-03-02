@@ -44,3 +44,9 @@ This app is built strictly for **educational and diagnostic purposes only**.
 - IP Lookup
 - Domain to IP conversion
 - Reverse DNS resolution
+
+### 📡 Ping Test
+- Measure network latency
+- Test device connectivity
+
+---
