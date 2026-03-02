@@ -27,3 +27,8 @@ This app is built strictly for **educational and diagnostic purposes only**.
 - View nearby WiFi networks
 - Check signal strength (dBm)
 - Identify security type
+
+### 🖥 Device Scanner
+- Discover devices connected to your local network
+- View IP and device information
+
