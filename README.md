@@ -35,3 +35,7 @@ This app is built strictly for **educational and diagnostic purposes only**.
 ### 🔐 Port Scanner
 - Scan commonly used ports
 - Identify open services
+
+### 🌍 Public IP Information
+- Display public IP address
+- Show ISP, region, and country
